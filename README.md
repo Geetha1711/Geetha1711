@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Geetha
-- 👀 I’m interested in pursuing DataScience
-- 🌱 I’m currently learning MachineLearning
+- 👀 I’m senior Python Programmer
+- 🌱 Interested to be a full stack developer
 - 💞️ I’m looking to collaborate with ML learners
 - 📫 How to reach me sjgeetha@gmail.com
 

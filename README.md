@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Geetha
 - 👀 I’m senior Python Programmer
 - 🌱 Interested to be a full stack developer
-- 💞️ I’m looking to collaborate with ML learners
+- 💞️ I’m looking to collaborate with same wavelength people
 - 📫 How to reach me sjgeetha@gmail.com
 
 <!---
